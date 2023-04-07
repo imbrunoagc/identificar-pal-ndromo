@@ -1,1 +1,1 @@
-# identificar-pal-ndromo
+# identificar-palindromo
